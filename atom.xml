@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Wyatt Pfeil]]></title>
+  <link href="http://wyattpfeil.com/atom.xml" rel="self"/>
+  <link href="http://wyattpfeil.com/"/>
+  <updated>2013-06-16T10:48:01-04:00</updated>
+  <id>http://wyattpfeil.com/</id>
+  <author>
+    <name><![CDATA[Wyatt Pfeil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Make Row Boats]]></title>
+    <link href="http://wyattpfeil.com/blog/2012/05/13/how-to-make-row-boats/"/>
+    <updated>2012-05-13T21:46:00-04:00</updated>
+    <id>http://wyattpfeil.com/blog/2012/05/13/how-to-make-row-boats</id>
+    <content type="html"><![CDATA[<ol>
+<li>get curved wood</li>
+<li>nail it together in curved shape</li>
+<li>make a stick out of wood. shape in cylinder. add rounded rectangle to end.</li>
+<li>cut rectangle out of wood. attach four legs to wood.</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[How to Make Kid Books]]></title>
+    <link href="http://wyattpfeil.com/blog/2012/05/13/how-to-make-kid-books/"/>
+    <updated>2012-05-13T21:45:00-04:00</updated>
+    <id>http://wyattpfeil.com/blog/2012/05/13/how-to-make-kid-books</id>
+    <content type="html"><![CDATA[<h2>How to choose your paper</h2>
+
+<ul>
+<li>White is the best color.</li>
+<li>The front should have bright colors.</li>
+<li>All the other pages should be white.</li>
+<li>Needs to be regular paper and not that thick.</li>
+</ul>
+
+
+<h2>How to Write Your Story</h2>
+
+<ul>
+<li>First thing is to think of the word you&#8217;re going to say.</li>
+<li>You have to sound out the words and stretch them.</li>
+<li>If you run out of room swoop down or go frompage to page.</li>
+<li>Start from the bottom middle of the paper.</li>
+<li>Need to make the paper out of folds.</li>
+<li>The last thing is to draw your pictures and color them in.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
